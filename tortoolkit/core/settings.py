@@ -235,7 +235,7 @@ async def handle_setting_callback(e):
 async def handle_settings(e,edit=False,msg="",submenu=None,session_id=None):
     # this function creates the menu
     # and now submenus too
-    await handle_time_cmd()
+    # await handle_time_cmd()
     if session_id is None:
         session_id = time.time()
         db = tordb
