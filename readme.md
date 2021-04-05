@@ -37,7 +37,7 @@ Following are some awesome features offered by this bot:-
 # Deployment
 
 ## ***Heroku***
-[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://heroku.com/deploy?template=https://github.com/kelengkeng/Tor-X)
+[![Deploy](https://telegra.ph/file/e7d224c45cf1d106a28fa.png)](https://heroku.com/deploy?template=https://github.com/kelengkeng/kekk)
 
 ## ***Zeet***
 According to me, this platform provides resources that are enough for a genuine user and by default prevents Abuse:
